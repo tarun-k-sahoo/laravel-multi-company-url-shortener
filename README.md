@@ -130,12 +130,3 @@ http://127.0.0.1:8000
 - **ChatGPT:** Used as an assistance tool for frontend UI development, including Blade view structure, Bootstrap styling, and frontend presentation.
 - Application requirements, backend implementation, business logic, and testing were reviewed and worked on as part of my own development process.
 
-## Author
-
-Your Name
-
-## Notes
-
-- Do not commit your local `.env` file.
-- Configure your own database credentials before running migrations.
-- Use the project's configured seeders to create the required roles, permissions, and initial SuperAdmin account.
