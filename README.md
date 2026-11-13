@@ -55,8 +55,9 @@ Permissions are managed using custom roles, permissions, and role-permission rel
 ### 1. Clone the Repository
 
 ```bash
-git clone YOUR_GITHUB_REPOSITORY_URL
-cd YOUR_PROJECT_FOLDER
+git clone https://github.com/tarun-k-sahoo/laravel-multi-company-url-shortener.git
+
+cd laravel-multi-company-url-shortener
 ```
 
 ### 2. Install Dependencies
